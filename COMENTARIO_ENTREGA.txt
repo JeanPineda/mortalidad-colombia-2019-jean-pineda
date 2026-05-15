@@ -1,0 +1,10 @@
+Nombre completo: Jean Paul Pineda Pinzón
+
+URL de la aplicación desplegada en Render:
+[Pegar aquí la URL pública generada por Render]
+
+URL del repositorio del proyecto en GitHub:
+[Pegar aquí la URL pública del repositorio]
+
+Comentario:
+Se entrega aplicación web interactiva desarrollada en Python con Dash y Plotly para el análisis de mortalidad no fetal en Colombia durante el año 2019. La aplicación incluye mapa por departamento, gráfico de líneas por mes, top 5 de ciudades más violentas según código X95, gráfico circular de ciudades con menor mortalidad, tabla de principales causas de muerte, comparación por sexo y departamento, e histograma por grupos de edad.
