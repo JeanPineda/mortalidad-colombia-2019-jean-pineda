@@ -119,11 +119,5 @@ http://127.0.0.1:8050
 
 La aplicación permite evidenciar los departamentos con mayor concentración de muertes, las variaciones mensuales de mortalidad, las principales causas de muerte, diferencias por sexo y la distribución por grupos de edad. Estos elementos facilitan una lectura integral del comportamiento de la mortalidad en Colombia durante el año 2019.
 
-## Entrega
+<img width="1772" height="561" alt="image" src="https://github.com/user-attachments/assets/6ad561dd-bf45-4b7f-aeff-538240072646" />
 
-Cada integrante debe entregar individualmente en el aula virtual:
-
-- Nombre completo.
-- URL pública de la aplicación desplegada.
-- URL del repositorio en GitHub.
-- Evidencia e interpretación de las visualizaciones.
