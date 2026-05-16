@@ -121,3 +121,19 @@ La aplicación permite evidenciar los departamentos con mayor concentración de 
 
 <img width="1772" height="561" alt="image" src="https://github.com/user-attachments/assets/6ad561dd-bf45-4b7f-aeff-538240072646" />
 
+<img width="1577" height="630" alt="image" src="https://github.com/user-attachments/assets/97f630ce-2568-4b5f-b19c-9c733c705178" />
+
+<img width="1502" height="561" alt="image" src="https://github.com/user-attachments/assets/98a9bc40-af52-4768-be2b-df8341210bd7" />
+
+<img width="1653" height="652" alt="image" src="https://github.com/user-attachments/assets/ba2254e2-9d03-4b34-b971-c34847825ba3" />
+
+<img width="1651" height="748" alt="image" src="https://github.com/user-attachments/assets/6dbde7b3-a86a-4c44-8a16-7f8a2c4cfa22" />
+
+<img width="1662" height="646" alt="image" src="https://github.com/user-attachments/assets/4a9b652e-25f4-49ee-be6b-0426dd41d167" />
+
+<img width="1687" height="760" alt="image" src="https://github.com/user-attachments/assets/4f033056-4baf-4e4f-9f9d-ed541eb6cbb3" />
+
+
+
+
+
