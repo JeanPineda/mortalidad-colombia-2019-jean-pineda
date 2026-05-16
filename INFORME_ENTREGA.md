@@ -50,12 +50,10 @@ El gráfico por grupos de edad clasifica los registros según la variable GRUPO_
 
 ## Repositorio del proyecto
 
-**URL GitHub:** pendiente de diligenciar después de subir el proyecto.
-
+**URL GitHub:** https://github.com/JeanPineda/mortalidad-colombia-2019-jean-pineda
 ## Aplicación desplegada
 
-**URL pública Render:** pendiente de diligenciar después del despliegue.
-
+**URL pública Render:** https://mortalidad-colombia-2019-jean-pineda.onrender.com/
 ## Conclusión
 
 La aplicación desarrollada cumple con el objetivo de transformar datos complejos de mortalidad en visualizaciones interactivas y comprensibles. El uso de Dash y Plotly facilita la exploración de la información y permite identificar patrones relevantes para el análisis territorial, demográfico y causal de la mortalidad en Colombia durante el año 2019.
